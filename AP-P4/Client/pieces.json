@@ -1,0 +1,602 @@
+[
+  [
+    {
+      "tag": "c",
+      "power": 4,
+      "aroundAbility": 1,
+      "ways": [
+        "q",
+        "w",
+        "e"
+      ],
+      "rushEnemy": true
+    },
+    {
+      "tag": "c",
+      "power": 7,
+      "aroundAbility": 1,
+      "ways": [
+        "q",
+        "w",
+        "e"
+      ],
+      "rushEnemy": true
+    },
+    {
+      "tag": "c",
+      "power": 3,
+      "aroundAbility": 2,
+      "ways": [
+        "q",
+        "w",
+        "e",
+        "d",
+        "c",
+        "x",
+        "z",
+        "a"
+      ],
+      "rushEnemy": true
+    },
+    {
+      "tag": "c",
+      "power": 3,
+      "aroundAbility": 1,
+      "ways": [
+        "q",
+        "w",
+        "e",
+        "d",
+        "c",
+        "x",
+        "z",
+        "a"
+      ],
+      "rushEnemy": false
+    },
+    {
+      "tag": "c",
+      "power": 2,
+      "aroundAbility": -2,
+      "ways": [
+        "q",
+        "w",
+        "e",
+        "d",
+        "c",
+        "x",
+        "z",
+        "a"
+      ],
+      "rushEnemy": true
+    },
+    {
+      "tag": "c",
+      "power": 1,
+      "aroundAbility": 1,
+      "ways": [
+        "qq",
+        "ww",
+        "ee",
+        "dd",
+        "cc",
+        "xx",
+        "zz",
+        "aa"
+      ],
+      "rushEnemy": true
+    },
+    {
+      "tag": "c",
+      "power": 6,
+      "aroundAbility": 1,
+      "ways": [
+        "q",
+        "w",
+        "e"
+      ],
+      "rushEnemy": true
+    },
+    {
+      "tag": "c",
+      "power": 4,
+      "aroundAbility": 1,
+      "ways": [
+        "q",
+        "w",
+        "e"
+      ],
+      "rushEnemy": true
+    }
+  ],
+  [
+    {
+      "tag": "c",
+      "power": 4,
+      "aroundAbility": 1,
+      "ways": [
+        "q",
+        "w",
+        "e"
+      ],
+      "rushEnemy": true
+    },
+    {
+      "tag": "c",
+      "power": 7,
+      "aroundAbility": 1,
+      "ways": [
+        "q",
+        "w",
+        "e"
+      ],
+      "rushEnemy": true
+    },
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    },
+    {
+      "tag": "c",
+      "power": 6,
+      "aroundAbility": 1,
+      "ways": [
+        "q",
+        "w",
+        "e"
+      ],
+      "rushEnemy": true
+    },
+    {
+      "tag": "c",
+      "power": 5,
+      "aroundAbility": 1,
+      "ways": [
+        "q",
+        "w",
+        "e"
+      ],
+      "rushEnemy": true
+    },
+    {
+      "tag": "c",
+      "power": 5,
+      "aroundAbility": 1,
+      "ways": [
+        "q",
+        "w",
+        "e"
+      ],
+      "rushEnemy": true
+    },
+    {
+      "tag": "c",
+      "power": 6,
+      "aroundAbility": 1,
+      "ways": [
+        "q",
+        "w",
+        "e"
+      ],
+      "rushEnemy": true
+    },
+    {
+      "tag": "c",
+      "power": 4,
+      "aroundAbility": 1,
+      "ways": [
+        "q",
+        "w",
+        "e"
+      ],
+      "rushEnemy": true
+    }
+  ],
+  [
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    },
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    },
+    {
+      "tag": "c",
+      "power": 7,
+      "aroundAbility": 1,
+      "ways": [
+        "q",
+        "w",
+        "e"
+      ],
+      "rushEnemy": true
+    },
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    },
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    },
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    },
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    },
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    }
+  ],
+  [
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    },
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    },
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    },
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    },
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    },
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    },
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    },
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    }
+  ],
+  [
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    },
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    },
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    },
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    },
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    },
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    },
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    },
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    }
+  ],
+  [
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    },
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    },
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    },
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    },
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    },
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    },
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    },
+    {
+      "tag": "e",
+      "power": 0,
+      "aroundAbility": 0,
+      "rushEnemy": false
+    }
+  ],
+  [
+    {
+      "tag": "m",
+      "power": 4,
+      "aroundAbility": 1,
+      "ways": [
+        "q",
+        "w",
+        "e"
+      ],
+      "rushEnemy": true
+    },
+    {
+      "tag": "m",
+      "power": 7,
+      "aroundAbility": 1,
+      "ways": [
+        "q",
+        "w",
+        "e"
+      ],
+      "rushEnemy": true
+    },
+    {
+      "tag": "m",
+      "power": 7,
+      "aroundAbility": 1,
+      "ways": [
+        "q",
+        "w",
+        "e"
+      ],
+      "rushEnemy": true
+    },
+    {
+      "tag": "m",
+      "power": 6,
+      "aroundAbility": 1,
+      "ways": [
+        "q",
+        "w",
+        "e"
+      ],
+      "rushEnemy": true
+    },
+    {
+      "tag": "m",
+      "power": 5,
+      "aroundAbility": 1,
+      "ways": [
+        "q",
+        "w",
+        "e"
+      ],
+      "rushEnemy": true
+    },
+    {
+      "tag": "m",
+      "power": 5,
+      "aroundAbility": 1,
+      "ways": [
+        "q",
+        "w",
+        "e"
+      ],
+      "rushEnemy": true
+    },
+    {
+      "tag": "m",
+      "power": 6,
+      "aroundAbility": 1,
+      "ways": [
+        "q",
+        "w",
+        "e"
+      ],
+      "rushEnemy": true
+    },
+    {
+      "tag": "m",
+      "power": 4,
+      "aroundAbility": 1,
+      "ways": [
+        "q",
+        "w",
+        "e"
+      ],
+      "rushEnemy": true
+    }
+  ],
+  [
+    {
+      "tag": "m",
+      "power": 4,
+      "aroundAbility": 1,
+      "ways": [
+        "q",
+        "w",
+        "e"
+      ],
+      "rushEnemy": true
+    },
+    {
+      "tag": "m",
+      "power": 7,
+      "aroundAbility": 1,
+      "ways": [
+        "q",
+        "w",
+        "e"
+      ],
+      "rushEnemy": true
+    },
+    {
+      "tag": "m",
+      "power": 3,
+      "aroundAbility": 2,
+      "ways": [
+        "q",
+        "w",
+        "e",
+        "d",
+        "c",
+        "x",
+        "z",
+        "a"
+      ],
+      "rushEnemy": true
+    },
+    {
+      "tag": "m",
+      "power": 3,
+      "aroundAbility": 1,
+      "ways": [
+        "q",
+        "w",
+        "e",
+        "d",
+        "c",
+        "x",
+        "z",
+        "a"
+      ],
+      "rushEnemy": false
+    },
+    {
+      "tag": "m",
+      "power": 2,
+      "aroundAbility": -2,
+      "ways": [
+        "q",
+        "w",
+        "e",
+        "d",
+        "c",
+        "x",
+        "z",
+        "a"
+      ],
+      "rushEnemy": true
+    },
+    {
+      "tag": "m",
+      "power": 1,
+      "aroundAbility": 1,
+      "ways": [
+        "qq",
+        "ww",
+        "ee",
+        "dd",
+        "cc",
+        "xx",
+        "zz",
+        "aa"
+      ],
+      "rushEnemy": true
+    },
+    {
+      "tag": "m",
+      "power": 6,
+      "aroundAbility": 1,
+      "ways": [
+        "q",
+        "w",
+        "e"
+      ],
+      "rushEnemy": true
+    },
+    {
+      "tag": "m",
+      "power": 4,
+      "aroundAbility": 1,
+      "ways": [
+        "q",
+        "w",
+        "e"
+      ],
+      "rushEnemy": true
+    }
+  ]
+]
